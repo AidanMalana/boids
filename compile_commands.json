@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-o",
+      "bin/boids",
+      "main.c"
+    ],
+    "directory": "/home/amm/Projects/boids",
+    "file": "/home/amm/Projects/boids/main.c",
+    "output": "/home/amm/Projects/boids/bin/boids"
+  }
+]
